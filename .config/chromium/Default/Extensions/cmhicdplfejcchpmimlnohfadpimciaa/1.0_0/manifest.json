@@ -1,0 +1,23 @@
+{
+   "background": {
+      "scripts": [ "background.js" ]
+   },
+   "browser_action": {
+      "default_icon": {
+         "19": "images/icon19.png",
+         "38": "images/icon38.png"
+      },
+      "default_title": "Launch Videostream"
+   },
+   "description": "You can finally launch VS easily within Chrome™",
+   "icons": {
+      "128": "images/icon128.png",
+      "48": "images/icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAhaQ3iQEa71raDKefsbEh6ViI3dQ4JGVKzDz3i6G6RLROwraYqYkLv4qD+oUA+4rtBhDplpEjwwkS0IJomQmDRifWRW0yMCsrnO4SkIJY0OoeGhLLFcu+SwIu3BgXKe62WOFkfi+LvkGNc8mRnmFhRhyf3zcYFgspV8yrdu1Z1n12D0wsgjqse79wqY4jiDfQ62XAlC0Pr27a4ZNk711PbjR4x4iLqIVj8oZbyKzIY+tZiug+PFYGvVM3UbpzfdJP7netwd1CUlrMHiatOHly18SpiD/CGR8U0GBdYy5hnM7frCRJS99sJSAv1BncsKhnaAc5LRH1pqWYGM1z7PUrvQIDAQAB",
+   "manifest_version": 2,
+   "name": "VS Launcher",
+   "permissions": [ "tabs" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0"
+}

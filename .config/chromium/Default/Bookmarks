@@ -1,0 +1,95 @@
+{
+   "checksum": "7391ee34940d753d621d1977856233f2",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13120024896750440",
+               "id": "10",
+               "name": "Linksys Smart Wi-Fi",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://192.168.1.1/ui/1.0.99.173444/dynamic/login.html"
+            }, {
+               "date_added": "13120024532689972",
+               "id": "11",
+               "name": "Sonarr",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://localhost:8989/"
+            }, {
+               "date_added": "13120024970037965",
+               "id": "12",
+               "name": "Surfboard",
+               "sync_transaction_version": "1",
+               "type": "url",
+               "url": "http://192.168.100.1/"
+            }, {
+               "date_added": "13124793669644276",
+               "id": "13",
+               "name": "",
+               "sync_transaction_version": "2",
+               "type": "url",
+               "url": "https://www.youtube.com/"
+            } ],
+            "date_added": "13129372771995779",
+            "date_modified": "13129372771995780",
+            "id": "6",
+            "name": "Sys Admin",
+            "sync_transaction_version": "1",
+            "type": "folder"
+         }, {
+            "date_added": "13120026725684853",
+            "id": "7",
+            "name": "Calendar",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://calendar.google.com/calendar/render#main_7%7Cmonth"
+         }, {
+            "date_added": "13124435607584927",
+            "id": "8",
+            "name": "Bitcoin Wallet - Blockchain",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "https://blockchain.info/wallet/#/login"
+         }, {
+            "date_added": "13125614800188835",
+            "id": "9",
+            "name": "document.body.contentEditable = 'true'",
+            "sync_transaction_version": "1",
+            "type": "url",
+            "url": "javascript:document.body.contentEditable = 'true'; document.designMode='on'; void 0"
+         }, {
+            "date_added": "13129509616130031",
+            "id": "16",
+            "name": "New Tab",
+            "sync_transaction_version": "3",
+            "type": "url",
+            "url": "chrome://newtab/"
+         } ],
+         "date_added": "13129372749544672",
+         "date_modified": "13129509616130031",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13129372749544681",
+         "date_modified": "0",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "sync_transaction_version": "3",
+      "synced": {
+         "children": [  ],
+         "date_added": "13129372749544682",
+         "date_modified": "0",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
