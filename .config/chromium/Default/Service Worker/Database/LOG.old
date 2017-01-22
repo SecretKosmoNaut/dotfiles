@@ -1,4 +1,0 @@
-2017/01/21-19:09:47.737 631 Reusing MANIFEST /home/alex/.config/chromium/Default/Service Worker/Database/MANIFEST-000001
-2017/01/21-19:09:47.737 631 Recovering log #3
-2017/01/21-19:09:47.970 631 (ignoring error) /home/alex/.config/chromium/Default/Service Worker/Database/000003.log: dropping 114 bytes; Corruption: missing start of fragmented record(2)
-2017/01/21-19:09:47.970 631 Reusing old log /home/alex/.config/chromium/Default/Service Worker/Database/000003.log 

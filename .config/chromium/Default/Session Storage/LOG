@@ -1,9 +1,0 @@
-2017/01/22-14:47:27.897 5395 Reusing MANIFEST /home/alex/.config/chromium/Default/Session Storage/MANIFEST-000001
-2017/01/22-14:47:27.897 5395 Recovering log #450
-2017/01/22-14:47:27.898 5395 Reusing old log /home/alex/.config/chromium/Default/Session Storage/000450.log 
-2017/01/22-14:48:02.759 5592 Level-0 table #453: started
-2017/01/22-14:48:02.809 5592 Level-0 table #453: 31844 bytes OK
-2017/01/22-14:48:02.856 5592 Delete type=0 #450
-2017/01/22-14:49:03.738 5592 Level-0 table #455: started
-2017/01/22-14:49:03.869 5592 Level-0 table #455: 111501 bytes OK
-2017/01/22-14:49:03.914 5592 Delete type=0 #452
